@@ -1,0 +1,7 @@
+,pearson_r_with_ppsf
+median_household_income,0.6783
+transit_score,0.6753
+school_rating,0.6037
+amenity_score,0.1836
+property_age,-0.0285
+dist_cbd_km,-0.6798
