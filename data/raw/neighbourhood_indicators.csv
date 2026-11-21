@@ -1,7 +1,0 @@
-neighbourhood_id,neighbourhood_name,zone_type,transit_score,school_rating,dist_cbd_km,median_household_income
-NBH_01,Greenwood Heights,Urban Core,9.2,8.8,0.4,145000
-NBH_02,Oakridge Park,Suburban,7.8,9.1,1.8,118000
-NBH_03,Riverside Quarter,Waterfront,8.9,8.4,0.9,138000
-NBH_04,Maplewood Commons,Suburban,6.5,7.6,3.2,89000
-NBH_05,Tech Corridor East,Mixed-Use,8.5,7.9,1.1,112000
-NBH_06,Southgate Industrial,Transitioning,5.4,6.1,4.5,68000
