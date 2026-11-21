@@ -1,7 +1,0 @@
-neighbourhood_id,neighbourhood_name,zone_type,transit_score,school_rating,median_household_income,listing_count,median_price_usd,mean_price_usd,median_ppsf,p25_ppsf,p75_ppsf,median_area_sqft,sale_share_pct,iqr_ppsf
-NBH_01,Greenwood Heights,Urban Core,9.2,8.8,145000.0,247,542216.9,623990.39,437.49,396.79,490.82,1212.02,67.61,94.03
-NBH_03,Riverside Quarter,Waterfront,8.9,8.4,138000.0,175,513075.79,624351.28,407.2,371.34,447.08,1212.6,70.29,75.73
-NBH_02,Oakridge Park,Suburban,7.8,9.1,118000.0,272,507087.96,583936.07,388.06,355.22,442.68,1257.755,68.75,87.46
-NBH_05,Tech Corridor East,Mixed-Use,8.5,7.9,112000.0,182,505238.34,573345.22,386.74,347.08,429.07,1312.75,69.23,81.99
-NBH_04,Maplewood Commons,Suburban,6.5,7.6,89000.0,241,382605.26,466012.32,315.62,285.91,351.86,1228.6,67.22,65.95
-NBH_06,Southgate Industrial,Transitioning,5.4,6.1,68000.0,124,323274.47,356330.05,255.93,233.84,281.57,1163.585,66.94,47.72
